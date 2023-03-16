@@ -1,0 +1,71 @@
+{
+    "hotels": [
+      {
+        "category": "Suite",
+        "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type_of_room": "Non-Ac",
+        "bed_type": "Single",
+        "no_of_persons": "1",
+        "capacity": "19",
+        "cost": 44444,
+        "booked": false,
+        "id": 3
+      },
+      {
+        "category": "Family",
+        "image_url": "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type_of_room": "Non-Ac",
+        "bed_type": "Single",
+        "no_of_persons": "1",
+        "capacity": "10",
+        "cost": 9999,
+        "booked": true,
+        "id": 4
+      },
+      {
+        "category": "Deluxe",
+        "image_url": "https://images.pexels.com/photos/237371/pexels-photo-237371.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type_of_room": "Ac",
+        "bed_type": "Double",
+        "no_of_persons": "2",
+        "capacity": "25",
+        "cost": 89888,
+        "booked": false,
+        "id": 5
+      },
+      {
+        "category": "Family",
+        "image_url": "https://images.pexels.com/photos/277572/pexels-photo-277572.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "type_of_room": "Ac",
+        "bed_type": "Double",
+        "no_of_persons": "3",
+        "capacity": "30",
+        "cost": 22222,
+        "booked": false,
+        "id": 6
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "try",
+        "email": "try@gmail.com",
+        "password": "3535436",
+        "mobile": "6464645656"
+      },
+      {
+        "name": "omesh",
+        "mobile": "546457",
+        "email": "omeshdubey@gmail.com",
+        "password": "11111",
+        "id": 2
+      },
+      {
+        "name": "gullu",
+        "mobile": "01231231231",
+        "email": "gullu@gmail.com",
+        "password": "1111",
+        "id": 3
+      }
+    ]
+  }
